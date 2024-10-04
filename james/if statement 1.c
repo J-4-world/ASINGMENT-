@@ -13,7 +13,7 @@ int main (void) {
   scanf("%d",&age);
   
   printf("Enter your annualincome\n");
-  scanf("%.2f",& annualincome);
+  scanf("%f",& annualincome);
   
   
   
