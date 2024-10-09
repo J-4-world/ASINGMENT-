@@ -4,7 +4,6 @@ Author James kamau
 Date 📅
 */
 #include<stdio.h>
-#include<conio.h>
 int main(){
 int id,d,r,F,A;
     printf("Enter the book ID\n");
