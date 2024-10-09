@@ -4,7 +4,7 @@ author James Kamau
 Date 1/10/2024
 */
 #include <stdio.h>
-#include<conio.h>
+
 int main (void) {
   int age;
   float annualincome;
